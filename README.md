@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Guilherme-Amorim-Silva
-- 👀 I’m interested in ...
+- 👀 I’m interested in  aprimorar em BI e Ciencias de Dados
 - 🌱 I’m currently learning  BI
 - 📫 How to reach me Guilherme.amorim1995@gmail.com
 
