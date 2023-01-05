@@ -1,7 +1,7 @@
-<h1 align="center">Oi 👋 , sou Guilherme Amorim da silva</h1>
+ <h1 align="center">Oi 👋 , sou Guilherme Amorim da silva</h1>
 <h3 align="center">Iniciante em ciências de dados e apaixonados por tecnologia</h3>
 
-- Atualmente estou trabalhando em **Analista discal Junior**- Atualmente estou aprendendo **Dados, SQL, Python, PopSql, Workbeach, Github**- 🔭 👯 🌱 Estou procurando colaborar em **Ciências de dados e Power bi**
+- Atualmente estou trabalhando em **Analista Fiscal Junior**- Atualmente estou aprendendo **Dados, SQL, Python, PopSql, Workbeach, Github**- 🔭 👯 🌱 Procuro colaborar em **Ciências de dados e Power bi**
 
 
 
@@ -15,8 +15,6 @@
 
 - 📫 Como chegar até mim **Guilherme.amorim1995@gmail.com**
 
-<h3 align="left">Connect with me:</h3><p align="left">
-</p><h3 align="left">Idiomas e Ferramentas:</h3><p align="left">
 
 
 
